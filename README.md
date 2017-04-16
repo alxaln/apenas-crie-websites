@@ -72,3 +72,4 @@ Mas e se você não sabe que tipo de site "apenas criar"? A seguir você encontr
 * Crie um trabalho compleo usando emojis
 * Limite-se a uma paleta de preto e uma cor, ou branco e uma cor
 * Escolha outra restrição e crie uma arte web inspirado por ela
+* Faça uma página semelhante à alguma funcionalidade do seu smartphone. ex.: Contatos, Menu de Configurações, etc
